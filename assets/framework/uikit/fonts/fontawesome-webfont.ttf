@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Investor Relations: </title>
+    <!-- <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /> -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="robots" content="NOODP, index, follow" />
+    <meta itemprop="name" content="">
+    <meta itemprop="description" content="">
+    <meta itemprop="image" content="">
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:image:src" content="">
+    <meta name="twitter:domain" content="">
+    <!-- Open Graph data (Facebook) -->
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="/" />
+    <meta property="og:image" content="/images/resources/img/logo-white.svg">
+    <meta property="og:description" content="" />
+    <!-- Apple Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon-180x180.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/android-chrome-16x16.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/android-chrome-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/favicons/android-chrome-96x96.png"/>
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/favicons/android-chrome-192x192.png"/>
+    <!-- Standard Icons -->
+    <!--<link rel="icon" type="image/png" href="/img/favicon/favicon-196x196.png" sizes="196x196" />-->
+    <!--<link rel="icon" type="image/png" href="/img/favicon/favicon-96x96.png" sizes="96x96" />-->
+    <!--<link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32" />-->
+    <!--<link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16" />-->
+    <!--<link rel="icon" type="image/png" href="/img/favicon/favicon-128.png" sizes="128x128" />-->
+    <!-- Microsoft Metadata -->
+    <meta name="application-name" content=""/>
+    <meta name="msapplication-TileColor" content="" />
+    <!--<meta name="msapplication-TileImage" content="/img/favicon/mstile-144x144.png" />-->
+    <!--<meta name="msapplication-square70x70logo" content="/img/favicon/mstile-70x70.png" />-->
+    <!--<meta name="msapplication-square150x150logo" content="/img/favicon/mstile-150x150.png" />-->
+    <!--<meta name="msapplication-wide310x150logo" content="/img/favicon/mstile-310x150.png" />-->
+    <!--<meta name="msapplication-square310x310logo" content="/img/favicon/mstile-310x310.png" />-->
+    <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+    <script>
+        // window.onloadCallback = onloadCallback
+    </script>
+    <!-- <link href="/images/css/main.min.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="/images/css/app.css" />
+    <!-- ir listedcompany start -->
+    <link rel="icon" href="/images/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="//ir.listedcompany.com/images/css_si_common.css" />
+    <link rel="stylesheet" type="text/css" href="//ir.listedcompany.com/images/css_ir_common.css" />
+    <link rel="stylesheet" type="text/css" href="//maxis.listedcompany.com/images/css_ir_maxis.css" />
+    <script type="text/javascript" src="//ir.listedcompany.com/images/js_si_common.js"></script>
+    <script type="text/javascript" src="//ir.listedcompany.com/images/js_ir_common.js"></script>
+    <script type="text/javascript" src="//ir.listedcompany.com/images/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="//maxis.listedcompany.com/javascripts/js_ir_maxis.js"></script>
+    <!-- ir listedcompany end -->
+    <!-- For all browsers -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    </head>
+<body  class="mxs-site">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NFBV92"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NFBV92');</script> -->
+<!-- end Google Analytics tag -->
+<header>
+    <div class="row upper-header">
+       <div class="col-6">
+        <div class="header_logo">
+         <a href="//www.maxis.com.my">
+          <div class="mxs-img text-left">
+             <img src="/images/Maxis_Logo.svg" alt="Maxis">
+          </div>
+         </a>
+        </div>
+       </div>
+       <div class="col-6 header-account-control">
+        <div class="d-flex flex-row-reverse">
+         <!-- Sign In Component -->
+         <div class="p-2">
+          <!-- <div class="account-control">
+             <a class="singin-url" href="//did-staging.maxis.com.my/oidc/authorize?response_type=code&amp;client_id=3b3e8ca7-521b-4cba-b8c8-db775e6704ca&amp;redirect_uri=http://aem-staging.maxis.com.my:80/bin/api/didauth?page=/content/mxs/en/whats-new"><span id="signin">Sign In</span><i class="material-icons">account_circle</i></a>
+             <div class="sigin-list dropdown ">
+              <ul>
+               <li class="active">
+                <a href="//cq-staging.men.maxis.com.my/content/maxis/en/personal/moa/manage-account/edit-account-info.html?login=true">Manage Account</a>
+               </li>
+               <li>
+                <a href="//cq-staging.men.maxis.com.my/content/maxis/en/personal/moa/manage-bills/manage-bills-overview.html?login=true">Pay Bill</a>
+               </li>
+               <li>
+                <a href="//cq-staging.men.maxis.com.my/content/maxis/en/personal/moa/manage-mobile-internet/mobile-internet-passes.html?login=true">Buy Passes</a>
+               </li>
+               <li class="logout" style="display:none;"><a href="/bin/api/didauth?action=logout&amp;pathName=/content/mxs/en/whats-new">Log out</a></li>
+              </ul>
+             </div>
+          </div> -->
+         </div>
+        </div>
+       </div>
+    </div>
+    <div class="header_navigation">
+        <div class="row">
+            <div class="col-12">
+                <div id="side-drawer" class="horizontal" style="height: auto;">
+                    <div class="nav-drawer">
+                        <!-- Drawer List-->
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a></a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Switch to Business Plans')" href="http://business.maxis.com.my/whats-new.html">
+                                        <p>Switch to Business Plans</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Switch to Prepaid Plans')" href="http://www.hotlink.com.my/en/whats-new.html">
+                                        <p>Switch to Prepaid Plans</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Mobile Plans')" href="https://www.maxis.com.my/mobile-plans/maxisone-plan.html">
+                                    Mobile Plans
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Switch to Maxis')" href="https://www.maxis.com.my/mobile-plans/switch-to-maxis.html">
+                                        <p>Switch to Maxis</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','MaxisONE Plan')" href="https://www.maxis.com.my/mobile-plans/maxisone-plan.html">
+                                        <p>MaxisONE Plan</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Refer Friend')" href="https://www.maxis.com.my/mobile-plans/maxisone-plan/refer-friend.html">
+                                        <p>Refer Friend</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','eSIM')" href="https://www.maxis.com.my/mobile-plans/esim.html">
+                                        <p>eSIM</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Family Plans')" href="https://www.maxis.com.my/family/maxisone-prime.html">
+                                    Family Plans
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','MaxisONE Prime')" href="https://www.maxis.com.my/family/maxisone-prime.html">
+                                        <p>MaxisONE Prime</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','MaxisONE Share')" href="https://www.maxis.com.my/mobile-plans/maxisone-share.html">
+                                        <p>MaxisONE Share</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Broadband Plans')" href="https://www.maxis.com.my/broadband.html">
+                                    Broadband Plans
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','MaxisONE Home Fibre')" href="https://www.maxis.com.my/broadband/maxisone-home-fibre.html">
+                                        <p>MaxisONE Home Fibre</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','MaxisONE Go WiFi')" href="https://www.maxis.com.my/broadband/maxisone-go-wifi.html">
+                                        <p>MaxisONE Go WiFi</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Devices')" href="https://www.maxis.com.my/devices.html">
+                                    Devices
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','All Brands')" href="https://www.maxis.com.my/devices/brands.html">
+                                        <p>All Brands</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','How To Get A Phone')" href="https://www.maxis.com.my/devices/get-a-phone.html">
+                                        <p>How To Get A Phone</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Roaming &amp; IDD')" href="https://www.maxis.com.my/lifestyle/roaming-idd/international-roaming.html">
+                                    Roaming &amp; IDD
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','International Roaming')" href="https://www.maxis.com.my/lifestyle/roaming-idd/international-roaming.html">
+                                        <p>International Roaming</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','DataRoam Pass')" href="https://www.maxis.com.my/lifestyle/roaming-idd/dataroam-pass.html">
+                                        <p>DataRoam Pass</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','MaxisONE World')" href="https://www.maxis.com.my/lifestyle/roaming-idd/maxisone-world.html">
+                                        <p>MaxisONE World</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Maxis FamilyRoam')" href="https://www.maxis.com.my/lifestyle/roaming-idd/maxis-familyroam.html">
+                                        <p>Maxis FamilyRoam</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','IDD')" href="https://www.maxis.com.my/lifestyle/roaming-idd/idd.html">
+                                        <p>IDD</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Rewards')" href="https://www.maxis.com.my/lifestyle/maxis-deals.html">
+                                    Rewards
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Maxis Deals')" href="https://www.maxis.com.my/lifestyle/maxis-deals.html">
+                                        <p>Maxis Deals</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','MaxisONE Club')" href="https://www.maxis.com.my/lifestyle/maxisone-club.html">
+                                        <p>MaxisONE Club</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Entertainment')" href="https://www.maxis.com.my/lifestyle/entertainment/maxis-tv.html">
+                                    Entertainment
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Maxis TV')" href="https://www.maxis.com.my/lifestyle/entertainment/maxis-tv.html">
+                                        <p>Maxis TV</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Music Unlimited')" href="https://www.maxis.com.my/lifestyle/entertainment/music-unlimited.html">
+                                        <p>Music Unlimited</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Apple Carrier Billing')" href="https://www.maxis.com.my/lifestyle/entertainment/apple-carrier-billing.html">
+                                        <p>Apple Carrier Billing</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Google Play Carrier Billing')" href="http://www.hotlink.com.my/en/lifestyle/services/operator-billing.html">
+                                        <p>Google Play Carrier Billing</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Apps')" href="https://www.maxis.com.my/lifestyle/mymaxis-app.html">
+                                    Apps
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','MyMaxis App')" href="https://www.maxis.com.my/lifestyle/mymaxis-app.html">
+                                        <p>MyMaxis App</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Services')" href="https://www.maxis.com.my/services/payment-financial-services.html">
+                                    Services
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Top-Up')" href="https://www.maxis.com.my/services/top-up.html">
+                                        <p>Top-Up</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Value Added Services')" href="https://www.maxis.com.my/services/value-added-services.html">
+                                        <p>Value Added Services</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Payment &amp; Financial Services')" href="https://www.maxis.com.my/services/payment-financial-services.html">
+                                        <p>Payment &amp; Financial Services</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Support')" href="https://www.maxis.com.my/support.html">
+                                    Support
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Contact Us')" href="https://www.maxis.com.my/support.html#contact-us">
+                                        <p>Contact Us</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','FAQ')" href="https://www.maxis.com.my/support.html">
+                                        <p>FAQ</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Terms &amp; Conditions')" href="https://www.maxis.com.my/terms-conditions.html">
+                                        <p>Terms &amp; Conditions</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Find A Store')" href="https://www.maxis.com.my/centre/store-locator.html">
+                                        <p>Find A Store</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Smartphone Service Centres')" href="https://www.maxis.com.my/centre/service-centre-locator.html">
+                                        <p>Smartphone Service Centres</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list horizontal">
+                            <p class="subtitle">
+                                <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','About Maxis')" href="https://www.maxis.com.my/about-maxis.html">
+                                    About Maxis
+                                </a>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Newsroom')" href="https://www.maxis.com.my/about-maxis/newsroom.html">
+                                        <p>Newsroom</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Corporate Responsibility')" href="https://www.maxis.com.my/about-maxis/corporate-responsibility.html">
+                                        <p>Corporate Responsibility</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Investor Relations')" href="https://www.maxis.com.my/about-maxis/investor-relations.html">
+                                        <p>Investor Relations</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Careers')" href="https://www.maxis.com.my/about-maxis/career.html">
+                                        <p>Careers</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Our Network')" href="https://www.maxis.com.my/about-maxis/maxis-network.html">
+                                        <p>Our Network</p>
+                                        <p></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav-list appended"></div>
+                    </div>
+                </div>
+                <!-- Main Navigation -->
+                <nav class="nav">
+                    <a class="nav-link d-flex flex-row open-drawer" href="#">
+                        <i class="material-icons">menu</i>
+                        <span>Explore</span>
+                    </a>
+                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Mobile Plans')" class="nav-link" href="https://www.maxis.com.my/mobile-plans.html">
+                        Mobile Plans
+                    </a>
+                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Devices')" class="nav-link" href="https://www.maxis.com.my/devices.html">
+                        Devices
+                    </a>
+                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Family')" class="nav-link" href="https://www.maxis.com.my/family.html">
+                        Family
+                    </a>
+                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Broadband')" class="nav-link d-none" href="https://www.maxis.com.my/broadband.html">
+                        Broadband
+                    </a>
+                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','About Maxis')" class="nav-link d-none" href="https://www.maxis.com.my/about-maxis.html">
+                        About Maxis
+                    </a>
+                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Support')" class="nav-link d-none" href="https://www.maxis.com.my/support.html">
+                        Support
+                    </a>
+                    <a onclick="gaEvents.pushInDataLayer(this,'Header Navigation Menu','Click Event','Business Plans')" class="nav-link d-none" href="https://www.maxis.com.my/business-plans.html">
+                        Business Plans
+                    </a>
+                </nav>
+                <!-- <div class="search-container text-right">
+                    <button class="search-button" data-toggle="modal" data-target="#searchmodaleaea23b0-f03d-4a1a-8392-c379caa6ad91">
+                    <i class="material-icons">search</i>
+                    </button>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <!-- <div id="searchmodaleaea23b0-f03d-4a1a-8392-c379caa6ad91" class="modal fade mxs-modal" data-src="https://www.maxis.com.my/content/mxs/en/admin/modal/searchmodal/jcr:content/content.html" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="global-modal ">
+                        <div class="d-flex justify-content-center  " style="background-color: ;">
+                            <div style="width:60%">
+                                <div class="search-comp">
+                                    <div>
+                                        <div class="search-input form-group">
+                                            <div class="title">Search</div>
+                                            <div class="mxs-search">
+                                                <i class="material-icons align-right">search</i>
+                                                <input type="text" class="form-control" id="searchinput" name="global-search" aria-describedby="" placeholder="Search for our products and services..." />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="mxs-search-results" data-resource-path="https://www.maxis.com.my/content/mxs/en/admin/modal/searchmodal/jcr:content/content/section_container_co/container/search" data-search-url="https://www.maxis.com.my/content/mxs/en/admin/modal/searchmodal/jcr:content/content/section_container_co/container/search.result.json"
+                                    data-search-suggest-url="https://www.maxis.com.my/content/mxs/en/admin/modal/searchmodal/jcr:content/content/section_container_co/container/search.suggestion.json"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer"><a data-dismiss="modal">Close</a></div>
+            </div>
+        </div>
+    </div> -->
+  </header>
+  <main>
+      <div>
+ 
+        <div class="section-container">
+          <div class="container full">
+            <div class="d-flex justify-content-center">
+              <div style="width:90%">
+                <div class="container">
+                  <div class="columnControl">
+                    <div class="column-control type-a side-padding-sm">
+                      <div class="row">
+                        <div class="col-md-3 left-column">
+                          <div>
+                            <div class="newpar new section">
+                            </div>
+                            <div class="par iparys_inherited">
+                              <div class="sitemap-comp"><div class="sidebar-navigation d-md-block">  <div class="">
+      <div class=""><a data-toggle="" class="category-title d-block collapsed " href="/home.html" aria-expanded="false"><h5>Investor Relations</h5></a>
+    
+    </div>
+      
+      <div class=""><a data-toggle="collapse" class="category-title d-block collapsed " href="#collapsible-item-group_1" aria-expanded="false"><h5>Corporate Information</h5></a>
+    <div id="collapsible-item-group_1" class="collapse " style="" data-a=""><ul><li><a href="/profile.html">Corporate Profile</a></li>
+      
+      <li><a href="/vision_mission.html">Vision and Values</a></li>
+      
+      <li><a href="/directors.html">Board Of Directors</a></li>
+      
+      <li><a href="/management.html">Management Team</a></li>
+      
+      <li><a href="/awards.html">Awards</a></li>
+      
+      <li><a href="/our_offices.html">Our Offices</a></li>
+      
+      <li><a href="/ard.html">Reference Access Offer</a></li>
+      
+      <li><a href="/health_safety.html">Health, Safety &amp; Environment</a></li></ul></div>
+    </div>
+      
+      <div class=""><a data-toggle="collapse" class="category-title d-block collapsed " href="#collapsible-item-group_2" aria-expanded="false"><h5>Financial Information</h5></a>
+    <div id="collapsible-item-group_2" class="collapse " style="" data-a=""><ul><li><a href="/financials.html">Financials</a></li>
+      
+      <li><a href="/financials_archive.html">Financials Archive</a></li>
+      
+      <li><a href="/ar.html">Annual Report</a></li>
+      
+      <li><a href="/highlights.html">Financial Highlights</a></li>
+      
+      <li><a href="/shareholdings.html">Shareholdings</a></li>
+      
+      <li><a href="/financial_calendar.html">Financial Calendar</a></li>
+      
+      <li><a href="/newsroom.html">Bursa Announcements</a></li></ul></div>
+    </div>
+      
+      <div class=""><a data-toggle="" class="category-title d-block collapsed " href="/corporate_governance.html" aria-expanded="false"><h5>Corporate Governance</h5></a>
+    
+    </div>
+      
+      <div class=""><a data-toggle="collapse" class="category-title d-block collapsed " href="#collapsible-item-group_4" aria-expanded="false"><h5>Stock Information</h5></a>
+    <div id="collapsible-item-group_4" class="collapse " style="" data-a=""><ul><li><a href="stock_fundamentals.html">Stock Fundamentals</a></li>
+      
+      <li><a href="/stock_chart_interactive.html">Interactive Charts</a></li>
+      
+      <li><a href="/historical_price.html">Historical Price</a></li>
+      
+      <li><a href="/investment_calculator.html">Investment Calculator</a></li></ul></div>
+    </div>
+      
+      <div class=""><a data-toggle="collapse" class="category-title d-block collapsed " href="#collapsible-item-group_5" aria-expanded="false"><h5>Information Request</h5></a>
+    <div id="collapsible-item-group_5" class="collapse " style="" data-a=""><ul><li><a href="/ir_contact.html">Investor Relation Contact</a></li>
+      
+      <li><a href="/download.html">All Downloads</a></li></ul></div>
+    </div>
+      
+    </div></div>
+<!-- <div class="dropdown-select form-group link-dropdown d-block d-sm-block d-md-none inside-pages-dropdown">
+	<div class="btn-group bootstrap-select">
+		<button type="button" class="btn dropdown-toggle bs-placeholder btn-default" data-toggle="dropdown" role="button" title="eKelas Introduction"><span class="filter-option pull-left">eKelas Introduction</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button>
+		<div class="dropdown-menu open" role="combobox">
+			<ul class="dropdown-menu inner" role="listbox" aria-expanded="false">
+				<li data-original-index="1"><a tabindex="0" class="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">
+				Corporate Responsibility </span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+				<li data-original-index="2"><a tabindex="0" class="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">
+				eKelas </span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+				<li data-original-index="3"><a tabindex="0" class="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">
+				Sustainability Reports </span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+				<li data-original-index="4"><a tabindex="0" class="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">
+				Parental Guidance </span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+			</ul>
+		</div>
+		<select class="selectpicker" title="Investor Relations" name="" tabindex="-98">
+			<option class="" value="/home.rev">Investor Overview</option>
+		</select>
+		<select class="selectpicker" title="Corporate Informations" name="" tabindex="-98">
+			<option class="" value="/profile.rev">Corporate Profile</option>
+			<option value="/vision_mission.rev">Vision and Values</option>
+			<option value="/directors.rev">Board Of Directors</option>
+			<option value="/management.rev">Management Team</option>
+			<option value="/awards.rev">Awards</option>
+			<option value="/our_offices.rev">Our Offices</option>
+			<option value="/ard.rev">Reference Access Offer</option>
+			<option value="/health_safety.rev">Health, Safety & Environment</option>
+		</select>
+		<select class="selectpicker" title="Financial Information" name="" tabindex="-98">
+			<option class="" value="/financials.rev">Financials</option>
+			<option value="/financials_archive.rev">Financials Archive</option>
+			<option value="/ar.rev">Annual Report</option>
+			<option value="/highlights.rev">Financial Highlights</option>
+			<option value="/shareholdings.rev">Shareholdings</option>
+			<option value="/financial_calendar.rev">Financial Calendar</option>
+			<option value="/newsroom.rev">Bursa Announcements</option>
+		</select>
+		<select class="selectpicker" title="Corporate Governance" name="" tabindex="-98">
+			<option class="" value="/corporate_governance.rev">Corporate Governance</option>
+		</select>
+		<select class="selectpicker" title="Stock Information" name="" tabindex="-98">
+			<option class="" value="/stock_fundamentals.rev">Stock Fundamentals</option>
+			<option value="/stock_chart_interactive.rev">Interactive Charts</option>
+			<option value="/historical_price.rev">Historical Price</option>
+			<option value="/investment_calculator.rev">Investment Calculator</option>
+		</select>
+		<select class="selectpicker" title="Information Request" name="" tabindex="-98">
+			<option value="/ir_contact.rev">Investor Relation Contact</option>
+			<option value="/download.rev">All Downloads</option>
+		</select>
+	</div>
+</div> -->                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-9 right-column">
+                          <div>
+                            <div class="title parbase">
+                              <div style="color: rgba(67,160,71,1.00)">
+                                <h3></h3>
+                              </div>
+                            </div>
+  
+
+<!-- End of include header normal -->
+The page you are looking for is missing.
+<div class="empty-gap">
+                                      <div class="d-none d-lg-block" style="padding-bottom: 30px">
+                                      </div>
+                                      <div class="d-none d-sm-block d-md-block d-lg-none" style="padding-bottom:30px">
+                                      </div>
+                                      <div class="d-block d-sm-none" style="padding-bottom:30px">
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+    </div>
+    <div class="chat">
+        <div class="button-holder clearfix">
+        </div>
+    </div>
+</main>
+
+
+<footer>
+        <div class="row footer-top">
+           <div class="col">
+              <div class="row row-separator">
+                 <div class="col-lg-6">
+                    <div class="row">
+                       <div class="nav-list col-lg-6 col-md-6 col-xs-12">
+                          <p class="subtitle">Maxis</p>
+                          <ul>
+                             <li><a href="https://www.maxis.com.my/about-maxis.html">About Maxis</a>
+                             </li>
+                             <li><a href="https://www.maxis.com.my/about-maxis/newsroom.html">Newsroom</a>
+                             </li>
+                             <li><a href="//www.maxis.com.my/about-maxis/career.html">Careers</a>
+                             </li>
+                             <li><a href="//www.hotlink.com.my/en/whats-new.html">Hotlink</a>
+                             </li>
+                             <li><a href="https://business.maxis.com.my/whats-new/">Business</a>
+                             </li>
+                          </ul>
+                       </div>
+                       <div class="nav-list col-lg-6 col-md-6 col-xs-12">
+                          <p class="subtitle">Support</p>
+                          <ul>
+                             <li><a href="https://www.maxis.com.my/support.html#contact-us">Contact Us</a>
+                             </li>
+                             <li><a href="https://www.maxis.com.my/centre/store-locator.html">Find A Store</a>
+                             </li>
+                             <li><a href="https://www.maxis.com.my/support.html">FAQ</a>
+                             </li>
+                             <li><a href="https://www.maxis.com.my/terms-conditions.html">Terms &amp; Conditions</a>
+                             </li>
+                          </ul>
+                       </div>
+                    </div>
+                 </div>
+                 <div class="col-lg-6">
+                    <div class="row">
+                       <div class="nav-list col-lg-6 col-md-6 col-xs-12">
+                          <p class="subtitle">Quick Links</p>
+                          <ul>
+                             <li><a href="https://www.maxis.com.my/mobile-plans/maxisone-plan.html">Postpaid Plans</a>
+                             </li>
+                             <li><a href="//www.hotlink.com.my/en/whats-new.html">Prepaid Plans</a>
+                             </li>
+                             <li><a href="//business.maxis.com.my/whats-new.html">Business Plans</a>
+                             </li>
+                             <li><a href="https://www.maxis.com.my/about-maxis/maxis-network.html">Our Network</a>
+                             </li>
+                          </ul>
+                       </div>
+                       <div class="alwys-rght col-lg-6 col-md-6 col-xs-12">
+                          <div class="rt">
+                             <div class="text parbase">
+                                <div>
+                                   <p><b><span class="small"><span class="semi-bold">Download MyMaxis App</span></span></b></p>
+                                </div>
+                             </div>
+                             <div class="columnControl">
+                                <div class="column-control   type-b    secondary  ">
+                                   <div class="row no-gutters" style="background-color: ;">
+                                      <div class="col">
+                                         <div>
+                                            <div class="image parbase mb-4">
+                                                <a href="https://www.maxis.com.my/en/personal/services/addons/apps/maxis-cs.html?redirect=no">
+                                                    <div class="mxs-img text-left">
+                                                        <img src="/images/Apple%20App%20Download.png" alt="Go to App Store">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                         </div>
+                                      </div>
+                                      <div class="col">
+                                         <div>
+                                            <div class="image parbase mb-4">
+                                                <a href="https://www.maxis.com.my/en/personal/services/addons/apps/maxis-cs.html?redirect=no">
+                                                    <div class="mxs-img text-left">
+                                                        <img src="/images/Android%20App%20Download.png" alt="Go to Google Play Store">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                         </div>
+                                      </div>
+                                   </div>
+                                </div>
+                             </div>
+                          </div>
+                          <div class="hr"></div>
+                          <div class="social-box">
+                             <p class="subtitle">Follow us</p>
+                             <ul class="social-icons">
+                                <li><a onclick="gaEvents.pushInDataLayer(this,'Social Share','icon-facebook','facebook')" href="https://www.facebook.com/maxis" target="_blank"><i class="icon icon-facebook"></i></a>
+                                </li>
+                                <li><a onclick="gaEvents.pushInDataLayer(this,'Social Share','icon-instagram','instagram')" href="https://www.instagram.com/maxis/?hl=en" target="_blank"><i class="icon icon-instagram"></i></a>
+                                </li>
+                                <li><a onclick="gaEvents.pushInDataLayer(this,'Social Share','icon-youtube','youtube')" href="https://www.youtube.com/user/Maxis/connect" target="_blank"><i class="icon icon-youtube"></i></a>
+                                </li>
+                                <li><a onclick="gaEvents.pushInDataLayer(this,'Social Share','icon-twitter','twitter')" href="https://twitter.com/MaxisListens" target="_blank"><i class="icon icon-twitter"></i></a>
+                                </li>
+                                <li><a onclick="gaEvents.pushInDataLayer(this,'Social Share','icon-google-plus','google-plus')" href="https://plus.google.com/+maxis" target="_blank"><i class="icon icon-google-plus"></i></a>
+                                </li>
+                             </ul>
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </div>
+        </div>
+        <div class="hr"></div>
+        <div class="row footer-bottom">
+           <div class="col-lg-6 col-md-12 col-sm-12">
+              <div class="footer-logo">
+                 <a>
+                    <div class="mxs-img text-left">
+                       <img src="/images/maxis-logo-white.svg" alt="Maxis Logo">
+                    </div>
+                 </a>
+              </div>
+              <p class="copyr">
+                 Copyright © 2020 Maxis Bhd. All rights reserved.
+              </p>
+              <ul class="mini-nav">
+                 <li><a href="https://www.maxis.com.my/privacy-statement.html">Privacy Policy</a>
+                 </li>
+                 <li><a href="https://www.maxis.com.my/terms-of-use.html">Terms of Use</a>
+                 </li>
+                 <li><a href="https://www.maxis.com.my/phishing-scam.html">Phishing and Scam Protection</a>
+                 </li>
+                 <li><a href="https://www.maxis.com.my/skmm-notification.html">SKMM Notification</a>
+                 </li>
+              </ul>
+           </div>
+           <div class="col-lg-6 col-md-12 col-sm-12 d-flex">
+            <div class="rt alwys-bttm align-self-end">
+              <div>
+                  <p style="text-align: right;"><span style="color: #43a047;">Price stated may be subject to Service Tax<br></span></p>
+                  <p style="text-align: right;">&nbsp;</p>
+                  <p style="text-align: right;">Redress your complaints at the Consumer Forum Malaysia (CFM)<br>
+                  <a href="//www.complaint.cfm.org.my">www.complaint.cfm.org.my</a></p>
+              </div>
+            </div>
+           </div>
+           <div class="col-lg-12 col-md-12 col-sm-12 d-flex" style="padding-left:20px; padding-right:20px;">
+            <div class="rt alwys-bttm align-self-end">
+              <div>
+                <p><span style="color: #ffffff;">Best viewed with the latest version of Chrome, Firefox, Safari, and Edge.</span></p>
+              </div>
+            </div>
+           </div>
+        </div>
+    </footer>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116657868-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116657868-1');
+</script> -->
+<!-- end Google Analytics tag -->
+
+<!-- <script type="text/javascript">
+
+function setCookie(c_name,value,exmin){
+    var exdate=new Date();
+    exdate.setMinutes(exdate.getMinutes() + exmin);
+    var c_value=escape(value) + ((exmin==null) ? "" : "; path=/");
+    document.cookie=c_name + "=" + c_value;
+}
+
+function getCookie(c_name){
+    var i,x,y,ARRcookies=document.cookie.split(";");
+    for(i=0;i<ARRcookies.length;i++){
+        x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+        y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+        x=x.replace(/^\s+|\s+$/g,"");
+        if (x==c_name){
+            return unescape(y);
+        }
+    }
+}
+
+</script> -->
+
+    <!-- <script type="text/javascript" src="/images/js/bundle.js"></script> -->
+    <!-- <script type="text/javascript" src="/images/clientlibs/granite/jquery.min.js"></script> -->
+    <script type="text/javascript" src="/images/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/images/js/utils.min.js"></script>
+    <!-- <script type="text/javascript" src="/images/js/granite.min.js"></script> -->
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+    
+    <script type="text/javascript" src="/images/js/shared.min.js"></script>
+    <!-- <script type="text/javascript" src="/images/js/main.min.js"></script> -->
+    <script src="/images/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,378 @@
+<!doctype html>
+<html class="thinking">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=11" />
+      <meta name="viewport" content="width=device-width,initial-scale=1.0">
+      <meta charset="UTF-8">
+      <title>MATRIX - BOARD OF DIRECTORS</title>
+      <link rel="icon" href="assets/favicon/favicon_icon.ico">
+      <link rel="stylesheet" href="assets/css/animate.min.css">
+      <link rel="stylesheet" href="assets/css/fonts.min.css">
+      <link rel="stylesheet" href="assets/framework/uikit/css/dotnav.min.css"/>
+      <link rel="stylesheet" href="assets/framework/uikit/css/uikit.min.css"/>
+      <link rel="stylesheet" type="text/css" href="assets/css/main.css" />
+      <link rel="stylesheet" type="text/css" href="./assets/css/slick.css"/>
+      <link rel="stylesheet" type="text/css" href="./assets/css/slick-theme.css"/>
+      <style>
+         .Landing {
+         z-index: 9;
+         }
+      </style>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+      <script type="text/javascript" src="assets/js/waypoints.min.js"></script>
+      <script type="text/javascript" src="assets/js/countup.min.js"></script>
+   </head>
+   <body class="thinking">
+      <div class="sticky-background"></div>
+      <div data-uk-sticky>
+         <a href="./index.html" class="logo"><img src="assets/img/elements/logo.png" width="95px" height="auto"></a>
+         <div class="share">
+            <input type="checkbox" href="#" class="share-open" name="share-open" id="share-open"/>
+            <label class="share-open-button" for="share-open"> <i class="icon-share"></i> </label>
+            <a href="#" class="share-item"> 
+            <img src="./assets/img/elements/Dribbble.png">
+            </a> 
+            <a href="#" class="share-item"> 
+            <i class="icon-facebook"></i>
+            </a>
+         </div>
+         <!-- filters -->
+         <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+            <defs>
+               <filter id="shadowed-goo">
+                  <fegaussianblur in="SourceGraphic" result="blur" stdDeviation="10" />
+                  <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" />
+                  <fegaussianblur in="goo" stdDeviation="3" result="shadow" />
+                  <fecolormatrix in="shadow" mode="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 -0.2" result="shadow" />
+                  <feoffset in="shadow" dx="1" dy="1" result="shadow" />
+                  <fecomposite in2="shadow" in="goo" result="goo" />
+                  <fecomposite in2="goo" in="SourceGraphic" result="mix" />
+               </filter>
+               <filter id="goo">
+                  <fegaussianblur in="SourceGraphic" result="blur" stdDeviation="10" />
+                  <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" />
+                  <fecomposite in2="goo" in="SourceGraphic" result="mix" />
+               </filter>
+            </defs>
+         </svg>
+         <div class="menu">
+            <label onclick="myFunction()" class="hamburger" id="hamburger2">
+               <div class="bar-wrap">
+                  <div class="bar"></div>
+                  <div class="bar"></div>
+                  <div class="bar"></div>
+               </div>
+               <span class="disable-select">MENU</span>
+            </label>
+         </div>
+         <div class="sidebar">
+            <nav class="nav">
+               <ul class="nav-items">
+                  <li class="menu-text close-1">
+                     <a id="close-1" href="./index.html">
+                        <div class="m-blue"></div>
+                        HOME
+                     </a>
+                  </li>
+                  <li class="menu-text close-1">
+                     <a href="./company.html">
+                        <div class="m-blue">01</div>
+                        <div class="m-text">COMPANY VISION & MISSION</div>
+                     </a>
+                  </li>
+                  <li class="menu-text close-1">
+                     <a href="./business.html">
+                        <div class="m-blue">02</div>
+                        <div class="m-text">OUR BUSINESS</div>
+                     </a>
+                  </li>
+                  <li class="menu-text close-1">
+                     <a href="./statement.html">
+                        <div class="m-blue">03</div>
+                        <div class="m-text">CHAIRMAN'S STATEMENT</div>
+                     </a>
+                  </li>
+                  <li class="menu-text close-1">
+                     <a href="./management.html">
+                        <div class="m-blue">04</div>
+                        <div class="m-text">MANAGEMENT
+                           DISCUSSION AND ANALYSIS
+                        </div>
+                     </a>
+                  </li>
+                  <li class="menu-text close-1">
+                     <a href="./directors.html">
+                        <div class="m-blue">05</div>
+                        <div class="m-text">BOARD OF DIRECTORS</div>
+                     </a>
+                  </li>
+                  <li class="menu-text close-1">
+                     <a href="./thinking.html">
+                        <div class="m-blue">06</div>
+                        <div class="m-text">INTEGRATED THINKING</div>
+                     </a>
+                  </li>
+                  <li class="menu-text close-1">
+                     <a href="./sustainability.html">
+                        <div class="m-blue">07</div>
+                        <div class="m-text">SUSTAINABILITY</div>
+                     </a>
+                  </li>
+                  <li class="menu-text close-1">
+                     <a href="./downloads.html">
+                        <div class="m-blue">08</div>
+                        <div class="m-text">DOWNLOADS
+                           ANNUAL REPORT 2020
+                        </div>
+                     </a>
+                  </li>
+                  <hr class="uk-article-divider">
+                  <div class="icon-con">
+                     <a href="#" class="m-share-item"> 
+                     <i class="icon-facebook"></i>
+                     </a> 
+                     <a href="#" class="m-share-item" style="margin-left: 60px"> 
+                     <img src="./assets/img/elements/Dribbble_2.png">
+                     </a>
+                  </div>
+               </ul>
+            </nav>
+         </div>
+      </div>
+      <div class="trans"></div>
+      <ul class="pagination">
+         <li class="home"><a href="./index.html">Home</a></li>
+         <li class="company"><a href="./company.html">Company Vision & Mission</a></li>
+         <li class="business"><a href="./business.html">Our Business</a></li>
+         <li class="statement"><a href="./statement.html">Chairman's Statement</a></li>
+         <li class="management"><a href="./management.html">Management Discussion and Analysis</a></li>
+         <li class="directors"><a href="./directors.html">Board of Directors</a></li>
+         <li class="thinking uk-active"><a href="./thinking.html">Integrated Thinking</a></li>
+         <li class="sustainability"><a href="./sustainability.html">Sustainability</a></li>
+         <li class="downloads"><a href="./downloads.html">Downloads</a></li>
+      </ul>
+      <div class="progressCounter"></div>
+      <div class="mask"></div>
+      <section class="section-classname home" data-section-name="home">
+         <div class="section-main disable-select">
+            <div class="title">
+               <h1 class="text-number">06</h1>
+               <div class="div-header">
+                  <h2 class="text-header">INTEGRATED</h2>
+                  <h3 class="text-sub-header">THINKING</h3>
+               </div>
+            </div>
+            <div class="thinking-content">
+              <div class="text-block">
+                <div class="text">
+                  Our value creation is anchored on the solid foundation of our corporate values,
+                  principles of good governance, robust business strategies, risk management
+                  framework and the inter-play between all of these and our resources.
+                  <br>
+                  <br>
+                  Addressed throughout this integrated Annual Report is the link between the
+                  different capitals with the outcome of our strategic initiatives. There is a feedback
+                  loop, as contributions from these capitals contribute towards value creation while
+                  our actions impact our performance.
+                </div>
+                <div class="text">
+                  Despite each capital being different and distinct from one another, every action
+                  has impact on more than one(1) capital.
+                  <br>
+                  <br>
+                  The six capitals are manufactured, human, natural, financial, social and
+                  relationship, intellectual and natural. By taking these into account when reporting
+                  on performance, a company provides a fuller picture of the way in which it creates
+                  value.
+                </div>
+              </div>
+              <div class="capitals">
+                <div class="capitals-title">THE 6 CAPITALS</div>
+                <div class="heading">Hover the icon to view more.</div>
+                <ul class="capitals-list">
+                  <li class="capital-item">
+                     <div class="icon-group">
+                        <div class="details right">
+                           <div class="horizontal-divider"></div>
+                           <div class="text">
+                            Matrix is a leading
+                            conglomerate with business
+                            interests in Property
+                            Development, Property
+                            Investment, REIT, Leisure,
+                            Hospitality, Construction,
+                            Trading and Manufacturing.
+                            </div>
+                        </div>
+                        <img src="./assets/img/elements/6 round icon-01.png">
+                        <div class="attribute">Manufactured<br>Capitals</div>
+                    </div>
+                  </li>
+                  <li class="capital-item">
+                     <div class="icon-group">
+                        <div class="details right">
+                           <div class="horizontal-divider"></div>
+                           <div class="text">
+                            Matrix is a leading
+                            conglomerate with business
+                            interests in Property
+                            Development, Property
+                            Investment, REIT, Leisure,
+                            Hospitality, Construction,
+                            Trading and Manufacturing.
+                            </div>
+                        </div>
+                        <img src="./assets/img/elements/6 round icon-02.png">
+                        <div class="attribute">Human<br>Capital</div>
+                     </div>
+                   </li>
+                   <li class="capital-item">
+                     <div class="icon-group">
+                        <div class="details right">
+                           <div class="horizontal-divider"></div>
+                           <div class="text">
+                           Matrix is a leading
+                           conglomerate with business
+                           interests in Property
+                           Development, Property
+                           Investment, REIT, Leisure,
+                           Hospitality, Construction,
+                           Trading and Manufacturing.
+                           </div>
+                        </div>
+                        <img src="./assets/img/elements/6 round icon-03.png">
+                        <div class="attribute">Natural<br>Capital</div>
+                     </div>
+                   </li>
+                   <li class="capital-item">
+                     <div class="icon-group">
+                        <div class="details right">
+                           <div class="horizontal-divider"></div>
+                           <div class="text">
+                            Matrix is a leading
+                            conglomerate with business
+                            interests in Property
+                            Development, Property
+                            Investment, REIT, Leisure,
+                            Hospitality, Construction,
+                            Trading and Manufacturing.
+                            </div>
+                        </div>
+                        <img src="./assets/img/elements/6 round icon-04.png">
+                        <div class="attribute">Financial<br>Capital</div>
+                     </div>
+                   </li>
+                   <li class="capital-item">
+                     <div class="icon-group">
+                        <div class="details right">
+                           <div class="horizontal-divider"></div>
+                           <div class="text">
+                            Matrix is a leading
+                            conglomerate with business
+                            interests in Property
+                            Development, Property
+                            Investment, REIT, Leisure,
+                            Hospitality, Construction,
+                            Trading and Manufacturing.
+                            </div>
+                        </div>
+                        <img src="./assets/img/elements/6 round icon-05.png">
+                        <div class="attribute">Social and<br>Relationship<br>Capital</div>
+                     </div>
+                   </li>
+                   <li class="capital-item">
+                     <div class="icon-group">
+                        <div class="details right">
+                           <div class="horizontal-divider"></div>
+                           <div class="text">
+                            Matrix is a leading
+                            conglomerate with business
+                            interests in Property
+                            Development, Property
+                            Investment, REIT, Leisure,
+                            Hospitality, Construction,
+                            Trading and Manufacturing.
+                            </div>
+                        </div>
+                        <img src="./assets/img/elements/6 round icon-06.png">
+                        <div class="attribute">Intellectual<br>Capital</div>
+                     </div>
+                   </li>
+                </ul>
+              </div>
+            </div>
+         </div>
+      </section>
+      <div id="h-table" class="uk-modal">
+         <div class="uk-modal-dialog  uk-modal-dialog-blank"> <a href="#" class="uk-modal-close uk-close"></a> <img src="assets/img/how-maxis-creates/value.svg" style="margin: auto; width: 100%;"> </div>
+      </div>
+      <div id="m-table" class="uk-modal">
+         <div class="uk-modal-dialog  uk-modal-dialog-blank"> <a href="#" class="uk-modal-close uk-close"></a> 
+            <img class="uk-hidden-small" src="assets/img/material/material-matter.svg" >
+            <img class="uk-hidden-large uk-hidden-medium" src="assets/img/material/material-matter-small.svg" >
+         </div>
+      </div>
+      <script type="text/javascript" src="assets/js/index.min.js"></script>
+      <script type="text/javascript" src="assets/js/jquery.progressscroll.min.js"></script>
+      <script type="text/javascript" src="assets/framework/uikit/js/uikit.min.js"></script>
+      <script type="text/javascript" src="assets/framework/uikit/js/slideset.min.js"></script>
+      <script type="text/javascript" src="assets/framework/uikit/js/accordion.min.js"></script>
+      <script type="text/javascript" src="assets/framework/uikit/js/lightbox.min.js"></script>
+      <script type="text/javascript" src="assets/js/countup.min.js"></script>
+      <script type="text/javascript" src="./assets/js/slick.js"></script>
+      <script>
+         $(".progressCounter").progressScroll();
+         $('.button-1').hover(function () {
+         $(this).parent().toggleClass('expand');     
+         });
+      </script>
+      <script>
+         function myFunction() {
+            var element = document.getElementById("hamburger2");
+            element.classList.toggle("toggle");
+         	var element = document.getElementById("close-1");
+            element.classList.toggle("close");
+         }
+      </script>
+      <script>
+         $('.hamburger').click(function(){
+             $('body').toggleClass('no-scroll');
+         });
+      </script>
+      <script>
+         $(".menu-text").click(function(){
+         $("body").removeClass("show-sidebar no-scroll");
+         	$(".hamburger").removeClass("toggle");
+         });
+      </script>
+      <script>
+         $(document).ready(function() {
+           var $nav = $(".sticky-background");
+           $nav.toggleClass('scrolled', $(this).scrollTop() > 0);
+         });
+         $(function() {
+           $(document).scroll(function () {
+             var $nav = $(".sticky-background");
+             $nav.toggleClass('scrolled', $(this).scrollTop() > 0);
+           });
+         });
+         
+         $(document).on('mouseenter', '.capital-item', function() {
+            let index = $(this).index() + 1;
+            $('.capital-item:nth-child(' + index + ') .icon-group img').addClass('z-index-1');
+            $('.capital-item:nth-child(' + index + ') .icon-group .attribute').addClass('z-index-1');
+            $('.capital-item:nth-child(' + index + ') .details').css('display', 'flex');
+            $('body, html').scrollLeft($(document).outerWidth());
+         });
+
+         $(document).on('mouseleave', '.capital-item', function() {
+            let index = $(this).index() + 1;
+            $('.capital-item:nth-child(' + index + ') .icon-group img').removeClass('z-index-1');
+            $('.capital-item:nth-child(' + index + ') .icon-group .attribute').removeClass('z-index-1');
+            $('.capital-item:nth-child(' + index + ') .details').css('display', 'none');
+         }); 
+      </script>
+    </body>
+</html>
